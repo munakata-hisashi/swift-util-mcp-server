@@ -1,6 +1,15 @@
 {
-  "originHash" : "ff9f9c87327661ba007a519b3ca48b19c6c16a06785b92dc53126132e3030f3c",
+  "originHash" : "f8ef779c0d74a7c3e8ac732810f4a30e33d79ae28779f3815cd8cd813b7c50b2",
   "pins" : [
+    {
+      "identity" : "eventsource",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/loopwork-ai/eventsource.git",
+      "state" : {
+        "revision" : "07957602bb99a5355c810187e66e6ce378a1057d",
+        "version" : "1.1.1"
+      }
+    },
     {
       "identity" : "swift-log",
       "kind" : "remoteSourceControl",
@@ -15,8 +24,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/modelcontextprotocol/swift-sdk.git",
       "state" : {
-        "revision" : "cfcead8121de466624a1357e02894616b0057805",
-        "version" : "0.7.1"
+        "revision" : "266c02d2d13421a2aa95cc4018d6d466084fa7e7",
+        "version" : "0.8.2"
       }
     },
     {
